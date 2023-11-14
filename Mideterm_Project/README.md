@@ -1,5 +1,5 @@
 # Midterm Project
-PID control for motor
+PID control to roatate motor by the target number of rotation
 
 ### Midterm_25.c
 1. Enter total number of iterations & target number of rotations for each iteration
